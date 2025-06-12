@@ -1,4 +1,4 @@
-# Employee Turnover Model
+# Predicting Turnover using Employeee Data
 Employee Turnover Model [In-Progress]
 
 ## Overview
@@ -8,4 +8,4 @@ This project focuses on predicting when members of a group are likely to leave, 
 The main outcome of this project is to predict the probability of an employee leaving. We target a probability value because the response variable (employment) is binary: TRUE for active employee and FALSE for inactive employee.
 
 ## Data Description
-The dataset contains employee data for 1,470 employees with demographics and company data (income, employee engagement surveys, tenure, ...) sourced from IBM HR Analytics Employee Attrition & Performance.
+The dataset contains employee data for 1,470 employees with demographic, performance, and employment data (gender, race, income, employee engagement surveys, tenure, ...) sourced from IBM HR Analytics Employee Attrition & Performance. Analysis of the data used can be found in the EDA.ipynb file.
